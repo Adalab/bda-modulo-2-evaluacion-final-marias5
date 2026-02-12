@@ -126,3 +126,27 @@ Uso de operadores LIKE, BETWEEN y NOT IN
 Comprender relaciones entre tablas mediante JOIN
 
 Aplicar funciones de agregación y agrupación
+
+
+
+🎬 API de Películas - Dataset & DataFrame - Consultas en Mysql
+📌 Descripción
+
+Este proyecto contiene un dataset de 100 películas expuesto a través de una API y representado como un DataFrame estructurado.
+
+La información incluye datos básicos como título, año, duración, género, clasificación para adultos, utilizando MySQL y conectarlo desde Python mediante mysql-connector-python.
+
+Incluye:
+
+Creación de base de datos
+
+Definición de tabla
+
+Inserción de datos
+
+Consultas básicas
+
+Integración con DataFrame (Pandas)
+
+
+
